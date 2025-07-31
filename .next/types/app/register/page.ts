@@ -1,4 +1,4 @@
-// File: /Users/rolandayo/Documents/tomiwacodes/Full-stack/Back-End/house-hunt-web/app/register/page.tsx
+// File: /Users/rolandayo/Downloads/Others/Node/house-hunt-web/app/register/page.tsx
 import * as entry from '../../../../app/register/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

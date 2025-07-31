@@ -1,6 +1,11 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
+  "/agents/page": "app/agents/page.js",
+  "/login/page": "app/login/page.js",
   "/page": "app/page.js",
+  "/payment/page": "app/payment/page.js",
   "/register/page": "app/register/page.js",
-  "/login/page": "app/login/page.js"
+  "/payment/success/page": "app/payment/success/page.js",
+  "/properties/page": "app/properties/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
 }
