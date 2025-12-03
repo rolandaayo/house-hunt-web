@@ -20,8 +20,6 @@ A modern platform that connects real-time housing agents to users seeking proper
 ### Demo Screenshots
 
 ![House Hunt Desktop Demo](./readme-images/readme-1.png "Desktop Demo")
-![House Hunt Desktop Demo](./readme-images/readme-2.png "Desktop Demo")
-![House Hunt Desktop Demo](./readme-images/readme-3.png "Desktop Demo")
 
 ### Prerequisites
 
