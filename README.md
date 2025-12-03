@@ -1,41 +1,71 @@
 <div align="center">
-  <h2 align="center">Ecommerce Store</h2>
+  <h2 align="center">House Hunt</h2>
 
-  This is a fully responsive and functional ecommerce website, Responsive for all devices. <br/> Built using Next.js and TailwindCSS.
+A modern platform that connects real-time housing agents to users seeking properties. Find your perfect home with instant access to professional real estate agents. <br/> Built using Next.js and TailwindCSS.
 
-  <a href="https://ecommerce-w3b.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="#"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Features
 
-![Micro Desktop Demo](./readme-images/readme-1.png "Desktop Demo")
-![Micro Desktop Demo](./readme-images/readme-2.png "Desktop Demo")
-![Micro Desktop Demo](./readme-images/readme-3.png "Desktop Demo")
+- **Real-time Agent Connections**: Browse and connect with available housing agents instantly
+- **Property Listings**: Access comprehensive property listings with detailed information
+- **Responsive Design**: Fully responsive interface optimized for all devices
+- **Modern Technology Stack**: Built with Next.js and TailwindCSS for optimal performance
+- **User-Friendly Interface**: Intuitive design for seamless property search experience
+
+### Demo Screenshots
+
+![House Hunt Desktop Demo](./readme-images/readme-1.png "Desktop Demo")
+![House Hunt Desktop Demo](./readme-images/readme-2.png "Desktop Demo")
+![House Hunt Desktop Demo](./readme-images/readme-3.png "Desktop Demo")
 
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Installing Ecomerce
+### Installing House Hunt
 
-To install **E-commerce Store**, run this command on your git bash:
+To install **House Hunt**, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/rolandaayo/ecommerce-store.git
+sudo git clone https://github.com/rolandaayo/house-hunt-web.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/rolandaayo/ecommerce-store.git
+git clone https://github.com/rolandaayo/house-hunt-web.git
 ```
+
+### Getting Started
+
+1. Navigate to the project directory:
+
+```bash
+cd house-hunt-web
+```
+
+2. Install dependencies:
+
+```bash
+pnpm install
+```
+
+3. Run the development server:
+
+```bash
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## 💬 Contact
 
